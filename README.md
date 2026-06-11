@@ -24,23 +24,23 @@
 
 ### 💻 Tech Stack
 
-**Languages**
+**Languages**<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**CS Fundamentals**
+**CS Fundamentals**<br>
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-006400?style=for-the-badge&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge&logoColor=white) ![OS](https://img.shields.io/badge/Operating%20Systems-555555?style=for-the-badge&logo=linux&logoColor=white) ![CN](https://img.shields.io/badge/Computer%20Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
-**Databases**
+**Databases**<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML / DL Frameworks & Libraries**
+**ML / DL Frameworks & Libraries**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Agentic AI Frameworks**
+**Agentic AI Frameworks**<br>
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 
-**Backend**
+**Backend**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-**Cloud, DevOps & Tools**
+**Cloud, DevOps & Tools**<br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
